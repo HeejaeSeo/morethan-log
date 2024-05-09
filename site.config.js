@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "rendezvous81",
-    image: "/me2.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/me3.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
     email: "chungyounglove@gmail.com",
@@ -13,13 +13,13 @@ const CONFIG = {
   projects: [
     {
       name: `my-blog`,
-      href: "https://github.com/HeejaeSeo/rendezvous81",
+      href: "https://github.com/HeejaeSeo/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
     title: "Rendezvous81's Blog",
-    description: "welcome to morethan-log!",
+    description: "Welcome to my blog!",
   },
 
   // CONFIG configration (required)
